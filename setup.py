@@ -9,7 +9,7 @@ setup(
     long_description=open('README.md').read(),
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/my_library',  # Optional
+    url='https://github.com/samarth4python-lgtm/Calculator.git',  # Optional
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
@@ -18,3 +18,4 @@ setup(
     ],
     python_requires='>=3.6',
 )
+#Don't use this file
